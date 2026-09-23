@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "76c5e343343dfe5bac8d1755",
+  "owner": "wsjegvw",
+  "repo": "page-c4354abdc3cc6ee48dfd589f",
+  "title": "蛙云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c4354abdc3cc6ee48dfd589f",
+      "a": "蛙云",
+      "b": "稳定全球clash加速器",
+      "entity": "蛙云",
+      "brand": "蛙云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "aa65cbc88997d9b1be9f087195497ec25ec692fbdb323c3f62c14de0315680ce",
+      "content": {
+        "primary_entity": "蛙云",
+        "keyword1": "蛙云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选客户端，订阅导入后再连接节点。",
+          "AI_CLIENTS_TITLE": "客户端选择与配置",
+          "AI_CLOSING_TEXT": "选好套餐和设备，导入订阅即可开始连接。",
+          "AI_CLOSING_TITLE": "开启蛙云连接",
+          "AI_DESCRIPTION": "，蛙云提供基础版、旗舰版和团队版三档订阅，分别覆盖每月 100GB、300GB 与 1000GB 流量，对应 3 台、5 台和 20 台设备同时在线。旗舰版内置 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与企业定制路由。按年付可享对应优惠，适合个人日常、多设备家庭和团队协作场景。",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个角度判断适合自己的套餐。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按用量选择不必超配。",
+          "AI_FEATURE_TEXT_2": "基础版可 3 台设备同时在线，旗舰版 5 台，团队版支持 20 台设备协作。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速，团队版提供 VIP 专属高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TITLE_3": "按线路需求选",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到连接节点的流程。",
+          "AI_GUIDE_TITLE": "订阅与连接步骤",
+          "AI_HERO_INTRO": "蛙云面向日常访问与跨境协作场景，提供基础版、旗舰版和团队版三档 Clash 订阅方案。流量从每月 100GB 到 1000GB，设备支持从 3 台到 20 台，可按人数、用量和线路需求选择。",
+          "AI_HERO_SUBTITLE": "蛙云多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含专线游戏加速",
+          "AI_HIGHLIGHT_3": "按年付可享对应优惠",
+          "AI_PLANS_INTRO": "基础版适合轻量单人或双设备；旗舰版适合多设备与游戏加速；团队版满足高流量与多人协作。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "先看每月流量与同时在线设备数，再从基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TEXT_2": "确认设备的系统版本和客户端类型，查看订阅格式与适配要求。",
+          "AI_STEP_TEXT_3": "获取订阅地址后按所选客户端文档导入配置，选择节点即可连接。",
+          "AI_STEP_TITLE_1": "选择订阅方案",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "导入订阅连接",
+          "AI_VISUAL_TITLE": "蛙云订阅灵活选",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "蛙云套餐之间主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "三档套餐在月流量、设备在线数量和节点类型上不同。基础版 100GB 与 3 台设备，旗舰版 300GB 与 5 台设备并含专线优化，团队版 1000GB 与 20 台设备并含高带宽节点。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。如需更多设备在线，可选择更高版本或按实际需求调整设备分配。",
+          "AI_FAQ_QUESTION_3": "年付与月付哪个更划算？",
+          "AI_FAQ_ANSWER_3": "以基础版为例，月付 ¥15，年付 ¥150，相当于按年支付可节省两个月费用。旗舰版年付 ¥350，团队版年付 ¥850，长期使用可按年付订阅。",
+          "AI_FAQ_QUESTION_4": "订阅链接在哪里导入客户端？",
+          "AI_FAQ_ANSWER_4": "在购买后获取订阅链接，打开对应系统的客户端导入功能，粘贴链接并更新节点列表即可。不同客户端导入路径略有差异，可参考客户端文档操作。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备在线，并提供 VIP 高带宽节点和企业定制路由，适合多人共享或对带宽稳定性要求较高的小型团队。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--vpn-f03e072j.com",
+    "host": "xn--vpn-f03e072j.com"
+  },
+  "file_hashes": {
+    "index.html": "975bfb52b191495d16597460969f69c2ae1aa1ccc73182ad8e01f308a519d8a0",
+    "sitemap.xml": "e2b223b28095f0b14ede2b8a1ff1f932d40c2747ae387edf02ee934e51eb13c6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "aaa4ad26b565c1944bba1dd762c33a7738f5527df6820b2f0212c1097d3542e9",
+    "robots.txt": "1bd104640705775c9b7aa4eadd53079979116b319cd66bcaefdce5fd58b33b4d",
+    "d5bf460b69d8aaf6c8d1cf9f11df288a.txt": "979fbd939774a5c4e4b50bf10589d71eee7943f2b4db39c7d6284ea54d33594e"
+  },
+  "revision": "7c16c9f808da98fc311d3108e114201f519435b775b3e590ec1efdfd952a4717"
+}
